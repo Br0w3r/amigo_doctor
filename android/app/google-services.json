@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473719661760",
+    "project_id": "amigodoctor-3fba0",
+    "storage_bucket": "amigodoctor-3fba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473719661760:android:838dc0c4460db1ebf33925",
+        "android_client_info": {
+          "package_name": "com.eishoncorp.amigo.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wRNxMu640lSEUYX9cwxhJIeXcOcZNZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

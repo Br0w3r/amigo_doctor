@@ -1,0 +1,34 @@
+{
+  "mensaje": "Los SIMS están listos para la entrega física",
+  "errores":{
+    "total": 2,
+    "rows": [
+      {
+        "id": 3,
+        "marca": "Mifi bienestar",
+        "modelo": "ABC",
+        "color": "Guinda",
+        "serial": "FGHY",
+        "imei": "GHNMGH",
+        "wifi_mac": "0A1B2C",
+        "wifi_code": "#12aB3Zxy",
+        "mifi_proveedor": {
+          "razon_social": "CFE"
+        }
+      },
+      {
+        "id": 2,
+        "marca": "Mifi bienestar",
+        "modelo": "ABC",
+        "color": "Guinda",
+        "serial": "FGHY",
+        "imei": "GHNMGH",
+        "wifi_mac": "0A1B2C",
+        "wifi_code": "#12aB3Zxy",
+        "mifi_proveedor": {
+          "razon_social": "CFE"
+        }
+      }
+    ]
+  }
+}

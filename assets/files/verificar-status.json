@@ -1,0 +1,46 @@
+{
+  "mensaje": "Los Mifis están listos para la entrega física",
+  "rows": [
+    [
+      {
+        "id": 1,
+        "marca": "Mifi bienestar",
+        "modelo": "ABC",
+        "color": "Guinda",
+        "serial": "ABC0123",
+        "imei": "GHNMGH",
+        "wifi_mac": "0A1B2C",
+        "wifi_code": "#12aB3Zxy",
+        "mifi_proveedor": {
+          "razon_social": "CFE"
+        }
+      },
+      {
+        "id": 2,
+        "marca": "Mifi bienestar",
+        "modelo": "ABC",
+        "color": "Guinda",
+        "serial": "FGNFHG",
+        "imei": "GHNMGH",
+        "wifi_mac": "0A1B2C",
+        "wifi_code": "#12aB3Zxy",
+        "mifi_proveedor": {
+          "razon_social": "CFE"
+        }
+      },
+      {
+        "id": 3,
+        "marca": "Mifi bienestar",
+        "modelo": "ABC",
+        "color": "Guinda",
+        "serial": "FGHY",
+        "imei": "GHNMGH",
+        "wifi_mac": "0A1B2C",
+        "wifi_code": "#12aB3Zxy",
+        "mifi_proveedor": {
+          "razon_social": "CFE"
+        }
+      }
+    ]
+  ]
+}
