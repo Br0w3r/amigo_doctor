@@ -1,2 +1,0 @@
-# amigo_doctor
-Examen

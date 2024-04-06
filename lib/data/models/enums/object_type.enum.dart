@@ -1,4 +1,0 @@
-enum ObjectType {
-  text,
-  number,
-}

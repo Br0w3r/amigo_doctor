@@ -1,0 +1,4 @@
+#Thu Apr 04 18:24:59 CST 2024
+base.0=C\:\\GIT\\Personales\\Mobile\\Amigo_Doctor\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

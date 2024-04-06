@@ -1,0 +1,1 @@
+ C:\\GIT\\Personales\\Mobile\\Amigo_Doctor\\.dart_tool\\flutter_build\\e082b0cf7f3855d31c37d68016583475\\native_assets.yaml: 

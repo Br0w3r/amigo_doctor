@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.eishoncorp.amigo.doctor.app-mergeDebugResources-5:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gamer\\.gradle\\caches\\transforms-3\\770b0ff4e3fd3a175ea04feb1f2fe6a6\\transformed\\appcompat-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
